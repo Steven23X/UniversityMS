@@ -6,6 +6,10 @@
 !.vscode/*.code-snippets
 !*.code-workspace
 
+Year1/Semester1/KRR/Labs/Lab3
+Year1/Semester1/KRR/Labs/Project1
+Year1/Semester1/KRR/Labs/PrologInterface
+
 # Built Visual Studio Code Extensions
 *.vsix
 
